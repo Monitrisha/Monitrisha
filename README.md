@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and security research.
 - 🌱 I’m currently learning hacking on web applications.
 - 💞️ I’m looking to collaborate on this field
-- 📫 How to reach me ...
+- 📫 you can reach me on twitter by @monitrisha
 
 <!---
 Monitrisha/Monitrisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
