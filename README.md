@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monitrisha
 - 👀 I’m interested in cybersecurity and security research.
-- 🌱 I’m currently learning hacking on web applications.
+- 🌱 I’m currently learning and hacking on web applications.
 - 💞️ I’m looking to collaborate on this field
 - 📫 you can reach me on twitter by @monitrisha
 
