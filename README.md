@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Monitrisha
-- 👀 I’m interested in cybersecurity and security research.
+- 👀 I’m interested in Generative AI, Agentic AI, Cybersecurity and Security research.
 - 🌱 I’m currently learning and hacking on web applications.
-- 💞️ I’m looking to collaborate on this field
+- 💞️ I’m looking to collaborate on this field.
 - 📫 you can reach me on twitter by @monitrisha
   
 <!---
